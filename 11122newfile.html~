@@ -14,7 +14,7 @@
 
 </head>
 <script type="text/javascript">
-    alert(5);
+    alert(3);
 </script>
 <body class="cover cover_frombuild">
   <div class="reactContainer"></div>
